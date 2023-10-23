@@ -1,0 +1,12 @@
+C:\Users\igor\source\repos\SUBDForm\SUBDLab\bin\Debug\SUBDLab.dll
+C:\Users\igor\source\repos\SUBDForm\SUBDLab\bin\Debug\SUBDLab.pdb
+C:\Users\igor\source\repos\SUBDForm\SUBDLab\obj\Debug\SUBDLab.csproj.AssemblyReference.cache
+C:\Users\igor\source\repos\SUBDForm\SUBDLab\obj\Debug\SUBDLab.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\SUBDForm\SUBDLab\obj\Debug\SUBDLab.dll
+C:\Users\igor\source\repos\SUBDForm\SUBDLab\obj\Debug\SUBDLab.pdb
+D:\compabdul\itlab\SUBDForm\SUBDLab\bin\Debug\SUBDLab.dll
+D:\compabdul\itlab\SUBDForm\SUBDLab\bin\Debug\SUBDLab.pdb
+D:\compabdul\itlab\SUBDForm\SUBDLab\obj\Debug\SUBDLab.csproj.AssemblyReference.cache
+D:\compabdul\itlab\SUBDForm\SUBDLab\obj\Debug\SUBDLab.csproj.CoreCompileInputs.cache
+D:\compabdul\itlab\SUBDForm\SUBDLab\obj\Debug\SUBDLab.dll
+D:\compabdul\itlab\SUBDForm\SUBDLab\obj\Debug\SUBDLab.pdb
